@@ -1,0 +1,5 @@
+main: me.dkim19375.groundspoofdetector.GroundSpoofDetector
+name: GroundSpoofDetector
+version: ${pluginVersion}
+description: Detect fake blocks!
+author: dkim19375
