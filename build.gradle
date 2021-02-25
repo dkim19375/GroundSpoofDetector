@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'me.dkim19375'
-version '1.0.0'
+version '1.0.1'
 
 shadowJar {
     relocate 'me.dkim19375.dkim19375core', 'me.dkim19375.groundspoofdetector.dkim19375core'
