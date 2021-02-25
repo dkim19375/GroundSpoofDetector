@@ -10,7 +10,7 @@ shadowJar {
     relocate 'me.dkim19375.dkim19375core', 'me.dkim19375.groundspoofdetector.dkim19375core'
 }
 
-sourceCompatibility = targetCompatibility = JavaVersion.VERSION_11
+sourceCompatibility = targetCompatibility = JavaVersion.VERSION_1_8
 
 //noinspection GroovyAssignabilityCheck
 tasks.withType(JavaCompile) {
